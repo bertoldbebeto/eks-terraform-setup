@@ -39,7 +39,7 @@ $ vi .bashrc
 # Source .bashrc to reflect for current session
 $ source ~/.bashrc  
 # run the scripts https://github.com/mylandmarktechs/eks-terraform-setup/blob/main/terraform-install.sh
-
+#terraform blank
 $ sudo yum install wget unzip -y
 $ wget https://releases.hashicorp.com/terraform/0.12.26/terraform_0.12.26_linux_amd64.zip
 $ sudo unzip terraform_0.12.26_linux_amd64.zip -d /usr/local/bin/
